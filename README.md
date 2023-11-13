@@ -32,7 +32,9 @@ jupyter-notebook
 
 #### Ruta de tablas a utilizar
 
-Las tablas que necesitarás se encuentran en la carpeta: `/resources/data/exam/parquet/`
+- El examen lo encuentras en: `exam/exam_pyspark.ipynb`
+
+- Las tablas que necesitarás se encuentran en la carpeta: `/resources/data/exam/parquet/`
 
 #### Descripción de tablas
 
